@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore Python cache and env
+*.pyc
+__pycache__/
+.env
+output/
