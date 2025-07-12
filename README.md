@@ -81,7 +81,7 @@ underwriting_automation/
 
 ## 📈 System Diagram
 
-![Underwriting Flowchart]<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/faffb1aa-4bb0-4f40-8217-b8ea4e87472d" />
+[Underwriting Flowchart]<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/faffb1aa-4bb0-4f40-8217-b8ea4e87472d" />
 
 
 ---
