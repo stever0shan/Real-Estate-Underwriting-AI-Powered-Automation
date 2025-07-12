@@ -93,6 +93,8 @@ python automate_underwriting.py test_docs/lawton_om.pdf
 ```
 
 ---
-📌 The sample OM is used for educational/demo purposes only. All copyrights and trademarks belong to their respective owners. No commercial use intended.
-📌 These templates are shared for educational/demo purposes only. All cell mappings and formulas are representative and do not constitute financial advice.
-Built for scale. Human-ready, AI-augmented.
+- 📌 The sample OM is used for educational/demo purposes only. All copyrights and trademarks belong to their respective owners. No commercial use intended.
+- 📌 These templates are shared for educational/demo purposes only. All cell mappings and formulas are representative and do not constitute financial advice.
+
+
+- Built for scale. Human-ready, AI-augmented.
